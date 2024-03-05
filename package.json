@@ -1,0 +1,9 @@
+{
+  "name": "@quangnhit/Runin",
+  "version": "1.0.0",
+  "description": "Runin for tea.xyz",
+  "main": "index.js",
+  "author": "@quangnhit",
+  "repository": "https://github.com/quangnhit/runin.git",
+  "license": "ISC"
+}
